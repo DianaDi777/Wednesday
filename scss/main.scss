@@ -15,7 +15,7 @@ $margin:0 auto;
 body {
     background: $mainColor;
     color: $bodyText;
-    font-weight: map-get($fontWeight, med );
+    font-weight: map-get($fontWeight, reg);
     font-family: $fontFamily;
 }
 header {
